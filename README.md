@@ -6,3 +6,4 @@ The general workflow is
 3. changes
 4. add
 5. commit
+6. push
