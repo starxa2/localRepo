@@ -24,3 +24,7 @@ git merge <-branch name-> (to merge 2 branches) <br>
 
 WAY_2 <br>
 PR (pull request)
+
+git pull origin main
+
+used to fetch and download content from a remote repo and immediately update the local repo to match that content
