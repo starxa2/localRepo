@@ -16,6 +16,11 @@ git branch -d <-branch name-> (to delete branch)<br>
 
 This is a new feature after shifting to feature1 branch
 
+## Merging code
 
-git diff <-branch name-> (to compare commits, branches, files & more)
-git merge <-branch name-> (to merge 2 branches)
+WAY_1 <br>
+git diff <-branch name-> (to compare commits, branches, files & more) <br>
+git merge <-branch name-> (to merge 2 branches) <br>
+
+WAY_2 <br>
+PR (pull request)
