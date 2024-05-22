@@ -28,3 +28,20 @@ PR (pull request)
 git pull origin main
 
 used to fetch and download content from a remote repo and immediately update the local repo to match that content
+
+
+## Undoing changes
+Case 1 : staged changes <br>
+git reset <-filename-> <br>
+git reset <br>
+
+Case 2 : commited changes(for one commit)<br>
+git reset HEAD-1<br>
+
+Case 3 : commited changes (for many commits)<br>
+git reset <-commit hash-><br>
+git reset --hard <-commit hash-><br>
+
+## Fork
+A fork is a new repository that shares code and visibility settings with the original "upstream" repository<br>
+Fork is a rough copy.
